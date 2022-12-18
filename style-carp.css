@@ -159,7 +159,8 @@ h1 {
     border: 5px solid #b04a22;
     border-radius: 10px;
     display: flex;
-    height: 400px;
+    height: auto;
+    min-height: 400px;
     width: 400px;
     text-align: center;
     justify-content: center;
