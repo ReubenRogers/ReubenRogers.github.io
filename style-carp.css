@@ -101,6 +101,7 @@ h1 {
     flex-direction: row;
     border-top: 50px solid whitesmoke;
     border-bottom: 10px solid #63CAF2;
+    flex-wrap: wrap;
 
 
 }
@@ -119,7 +120,7 @@ h1 {
     flex-direction: row;
     border-top: 10px solid #63CAF2;
     border-bottom: 10px solid #63CAF2;
-
+    flex-wrap: wrap;
 
 }
 
@@ -137,6 +138,7 @@ h1 {
     flex-direction: row;
     border-top: 10px solid #63CAF2;
     border-bottom: 50px solid whitesmoke;
+    flex-wrap: wrap;
 
 
 }
