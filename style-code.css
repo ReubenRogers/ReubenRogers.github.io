@@ -88,10 +88,10 @@ h1 {
 
 
 .section-two {
-    background-image: url(images/stars-space.png);
+    background-image: url(images/Code-Background.png);
     background-size: cover;
     background-position: center;
-    height: 700px;
+    height: auto;
     width: 100%;
     padding: 20;
     margin: 0;
@@ -100,7 +100,7 @@ h1 {
     justify-content: space-evenly;
     flex-direction: row;
     border-top: 50px solid whitesmoke;
-    border-bottom: 50px solid whitesmoke;
+    flex-wrap: wrap;
 
 
 }
@@ -111,6 +111,9 @@ h1 {
     align-items: center;
     justify-items: center;
     margin: 20px;
+    background-color: #1e253b;
+    border: 5px solid #b04a22;
+    border-radius: 40px;
 
 }
 
@@ -122,7 +125,41 @@ h1 {
 
 .explanation{
     width: 300px;
+    height: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    font-size: 15px;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.section-three {
+    background-image: url(images/Code-Background.png);
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    width: 100%;
+    padding: 20;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    border-top: 50px solid whitesmoke;
+    border-bottom: 50px solid whitesmoke;
+
+}
+
+.reflection {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    background-color: #1e253b;
+    border: 5px solid #b04a22;
+    border-radius: 40px;
+    height: auto;
+    width: 500px;
+    text-align: center;
+    padding: 20px;
 }
 
 h2 {

@@ -1,0 +1,95 @@
+body{
+    background-color: purple;
+}
+
+p{
+    font-family: monospace;
+    text-align: center;
+    color: lightpink;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightyellow;
+    font-style: italic;
+    text-align: right;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150px;
+    color: white;
+    font-style: normal;
+}
+
+h2{
+    color: black;
+}
+
+.special{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: left;
+}
+
+ul{
+    list-style-type: square;
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+li{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.fave{
+    color: orangered;
+}
+
+.pizza{
+    width: 50%;
+}
+a{
+    color: white;
+}
+
+
+/* Cake page */
+
+.cake-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.section-one{
+    background-color: darkslateblue;
+}
+
+.caption {
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.cake-item{
+    width: 275px;
+    height: 275px;
+    padding: 4px;
+}
+
+.cake-group{
+    width: 275px;
+}
