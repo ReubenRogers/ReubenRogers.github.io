@@ -130,10 +130,11 @@ p {
     background-color: #1e253b;
     border: 5px solid #b04a22;
     border-radius: 40px;
-    height: 300px;
-    width: 300px;
+    height: auto;
+    width: auto;
     text-align: center;
-
+    flex-wrap: wrap;
+    max-width: 500px;
 
 }
 
