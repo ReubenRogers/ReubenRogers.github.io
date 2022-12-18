@@ -101,6 +101,7 @@ h1 {
     flex-direction: row;
     border-top: 50px solid whitesmoke;
     border-bottom: 50px solid whitesmoke;
+    flex-wrap: wrap;
 
 
 }
