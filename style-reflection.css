@@ -123,8 +123,8 @@ h1 {
     margin: 0;
     display: flex;
     align-items: center;
-    justify-items: center;
-    flex-direction: column;
+    justify-content: center;
+    flex-direction: row;
     border-top: 50px solid whitesmoke;
     border-bottom: 50px solid whitesmoke;
 
