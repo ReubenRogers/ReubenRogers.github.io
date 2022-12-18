@@ -219,7 +219,7 @@ footer {
     scroll-snap-align: center;
     flex-shrink: 0;
     width: 600px;
-    height: 600px;
+    height: auto;
     margin-right: 50px;
     margin-left: 50px;
     border-radius: 10px;
