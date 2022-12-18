@@ -108,6 +108,11 @@ h1 {
     margin: 20px;
 }
 
+.page-plan2{
+    width: 500px;
+    margin: 20px;
+}
+
 .section-three {
     background-image: url(images/stars-space.png);
     background-size: cover;
@@ -140,7 +145,7 @@ h1 {
     text-align: center;
     justify-content: center;
     align-items: center;
-    margin: 100px;
+    margin: 50px;
 }
 
 h2 {
