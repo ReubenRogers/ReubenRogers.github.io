@@ -128,7 +128,7 @@ h1 {
     background-image: url(images/stars-space.png);
     background-size: cover;
     background-position: center;
-    height: 700px;
+    height: auto;
     width: 100%;
     padding: 20;
     margin: 0;
@@ -147,6 +147,8 @@ h1 {
     height: 500px;
     /* margin: 100px; */
     transition: 0.5s;
+    padding-top: 10%;
+    padding-bottom: 10%;
 }
 
 .poster-scale:hover {
