@@ -142,6 +142,7 @@ h1 {
     display: flex;
     height: auto;
     width: auto;
+    max-width: 700px;
     text-align: center;
     justify-content: center;
     align-items: center;
