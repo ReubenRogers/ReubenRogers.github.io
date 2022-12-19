@@ -132,6 +132,7 @@ h1 {
     align-items: center;
     justify-content: space-evenly;
     flex-direction: row;
+    flex-wrap: wrap;
     border-top: 10px solid #63CAF2;
     border-bottom: 10px solid #63CAF2;
 }
